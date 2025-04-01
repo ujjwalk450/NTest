@@ -1,0 +1,5 @@
+mediapipe==0.10.9
+tensorflow==2.15.0
+ray==2.9.1
+psutil>=5.9.0
+opencv-python>=4.8.0
