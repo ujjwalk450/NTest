@@ -1,0 +1,383 @@
+Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\ujjwa\AppData\Local\Programs\Python\Python39\spitting_multi.py
+1743517576.2839508
+
+[Batch 1] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 33.2s — 10/936 done
+[⏳] Estimated time remaining: 3076s
+
+[Batch 2] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.2s — 20/936 done
+[⏳] Estimated time remaining: 2767s
+
+[Batch 3] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.8s — 30/936 done
+[⏳] Estimated time remaining: 2612s
+
+[Batch 4] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.0s — 40/936 done
+[⏳] Estimated time remaining: 2240s
+
+[Batch 5] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.7s — 50/936 done
+[⏳] Estimated time remaining: 2458s
+
+[Batch 6] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.3s — 60/936 done
+[⏳] Estimated time remaining: 2656s
+
+[Batch 7] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.5s — 70/936 done
+[⏳] Estimated time remaining: 2552s
+
+[Batch 8] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.6s — 80/936 done
+[⏳] Estimated time remaining: 2187s
+
+[Batch 9] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.2s — 90/936 done
+[⏳] Estimated time remaining: 2381s
+
+[Batch 10] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.0s — 100/936 done
+[⏳] Estimated time remaining: 2253s
+
+[Batch 11] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.4s — 110/936 done
+[⏳] Estimated time remaining: 2513s
+
+[Batch 12] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.8s — 120/936 done
+[⏳] Estimated time remaining: 2346s
+
+[Batch 13] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.6s — 130/936 done
+[⏳] Estimated time remaining: 2625s
+
+[Batch 14] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.0s — 140/936 done
+[⏳] Estimated time remaining: 2231s
+
+[Batch 15] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.2s — 150/936 done
+[⏳] Estimated time remaining: 2141s
+
+[Batch 16] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.8s — 160/936 done
+[⏳] Estimated time remaining: 2001s
+
+[Batch 17] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 24.4s — 170/936 done
+[⏳] Estimated time remaining: 1869s
+
+[Batch 18] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.9s — 180/936 done
+[⏳] Estimated time remaining: 2112s
+
+[Batch 19] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.2s — 190/936 done
+[⏳] Estimated time remaining: 2330s
+
+[Batch 20] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.8s — 200/936 done
+[⏳] Estimated time remaining: 1969s
+
+[Batch 21] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 24.3s — 210/936 done
+[⏳] Estimated time remaining: 1764s
+
+[Batch 22] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.1s — 220/936 done
+[⏳] Estimated time remaining: 2013s
+
+[Batch 23] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.2s — 230/936 done
+[⏳] Estimated time remaining: 2060s
+
+[Batch 24] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.9s — 240/936 done
+[⏳] Estimated time remaining: 1871s
+
+[Batch 25] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.6s — 250/936 done
+[⏳] Estimated time remaining: 2235s
+
+[Batch 26] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.4s — 260/936 done
+[⏳] Estimated time remaining: 2188s
+
+[Batch 27] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.2s — 270/936 done
+[⏳] Estimated time remaining: 1878s
+
+[Batch 28] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.8s — 280/936 done
+[⏳] Estimated time remaining: 1957s
+
+[Batch 29] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.4s — 290/936 done
+[⏳] Estimated time remaining: 2090s
+
+[Batch 30] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.7s — 300/936 done
+[⏳] Estimated time remaining: 2082s
+
+[Batch 31] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.7s — 310/936 done
+[⏳] Estimated time remaining: 1923s
+
+[Batch 32] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.2s — 320/936 done
+[⏳] Estimated time remaining: 1678s
+
+[Batch 33] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 34.3s — 330/936 done
+[⏳] Estimated time remaining: 2076s
+
+[Batch 34] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.0s — 340/936 done
+[⏳] Estimated time remaining: 1727s
+
+[Batch 35] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 42.9s — 350/936 done
+[⏳] Estimated time remaining: 2516s
+
+[Batch 36] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.8s — 360/936 done
+[⏳] Estimated time remaining: 1775s
+
+[Batch 37] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.5s — 370/936 done
+[⏳] Estimated time remaining: 1784s
+
+[Batch 38] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 38.5s — 380/936 done
+[⏳] Estimated time remaining: 2143s
+
+[Batch 39] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 34.9s — 390/936 done
+[⏳] Estimated time remaining: 1907s
+
+[Batch 40] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.4s — 400/936 done
+[⏳] Estimated time remaining: 1575s
+
+[Batch 41] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.0s — 410/936 done
+[⏳] Estimated time remaining: 1315s
+
+[Batch 42] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.4s — 420/936 done
+[⏳] Estimated time remaining: 1673s
+
+[Batch 43] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.5s — 430/936 done
+[⏳] Estimated time remaining: 1591s
+
+[Batch 44] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 40.3s — 440/936 done
+[⏳] Estimated time remaining: 2000s
+
+[Batch 45] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.5s — 450/936 done
+[⏳] Estimated time remaining: 1336s
+
+[Batch 46] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.9s — 460/936 done
+[⏳] Estimated time remaining: 1469s
+
+[Batch 47] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 37.7s — 470/936 done
+[⏳] Estimated time remaining: 1757s
+
+[Batch 48] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 35.0s — 480/936 done
+[⏳] Estimated time remaining: 1595s
+
+[Batch 49] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.0s — 490/936 done
+[⏳] Estimated time remaining: 1339s
+
+[Batch 50] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.8s — 500/936 done
+[⏳] Estimated time remaining: 1167s
+
+[Batch 51] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.4s — 510/936 done
+[⏳] Estimated time remaining: 1126s
+
+[Batch 52] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.9s — 520/936 done
+[⏳] Estimated time remaining: 1287s
+
+[Batch 53] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.6s — 530/936 done
+[⏳] Estimated time remaining: 1325s
+
+[Batch 54] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.7s — 540/936 done
+[⏳] Estimated time remaining: 1137s
+
+[Batch 55] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 39.5s — 550/936 done
+[⏳] Estimated time remaining: 1525s
+
+[Batch 56] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.0s — 560/936 done
+[⏳] Estimated time remaining: 1016s
+
+[Batch 57] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.3s — 570/936 done
+[⏳] Estimated time remaining: 1182s
+
+[Batch 58] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.0s — 580/936 done
+[⏳] Estimated time remaining: 1104s
+
+[Batch 59] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 37.1s — 590/936 done
+[⏳] Estimated time remaining: 1283s
+
+[Batch 60] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.1s — 600/936 done
+[⏳] Estimated time remaining: 942s
+
+[Batch 61] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.9s — 610/936 done
+[⏳] Estimated time remaining: 941s
+
+[Batch 62] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.7s — 620/936 done
+[⏳] Estimated time remaining: 875s
+
+[Batch 63] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.1s — 630/936 done
+[⏳] Estimated time remaining: 920s
+
+[Batch 64] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.1s — 640/936 done
+[⏳] Estimated time remaining: 743s
+
+[Batch 65] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.2s — 650/936 done
+[⏳] Estimated time remaining: 891s
+
+[Batch 66] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 30.8s — 660/936 done
+[⏳] Estimated time remaining: 848s
+
+[Batch 67] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 35.7s — 670/936 done
+[⏳] Estimated time remaining: 950s
+
+[Batch 68] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.9s — 680/936 done
+[⏳] Estimated time remaining: 713s
+
+[Batch 69] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.7s — 690/936 done
+[⏳] Estimated time remaining: 705s
+
+[Batch 70] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.0s — 700/936 done
+[⏳] Estimated time remaining: 685s
+
+[Batch 71] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.1s — 710/936 done
+[⏳] Estimated time remaining: 634s
+
+[Batch 72] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 24.8s — 720/936 done
+[⏳] Estimated time remaining: 534s
+
+[Batch 73] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.2s — 730/936 done
+[⏳] Estimated time remaining: 580s
+
+[Batch 74] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 31.7s — 740/936 done
+[⏳] Estimated time remaining: 621s
+
+[Batch 75] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 34.9s — 750/936 done
+[⏳] Estimated time remaining: 650s
+
+[Batch 76] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 29.8s — 760/936 done
+[⏳] Estimated time remaining: 525s
+
+[Batch 77] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 22.4s — 770/936 done
+[⏳] Estimated time remaining: 371s
+
+[Batch 78] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.9s — 780/936 done
+[⏳] Estimated time remaining: 404s
+
+[Batch 79] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.2s — 790/936 done
+[⏳] Estimated time remaining: 381s
+
+[Batch 80] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.4s — 800/936 done
+[⏳] Estimated time remaining: 372s
+
+[Batch 81] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 26.5s — 810/936 done
+[⏳] Estimated time remaining: 333s
+
+[Batch 82] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.6s — 820/936 done
+[⏳] Estimated time remaining: 320s
+
+[Batch 83] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 27.4s — 830/936 done
+[⏳] Estimated time remaining: 290s
+
+[Batch 84] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 83.5s — 840/936 done
+[⏳] Estimated time remaining: 801s
+
+[Batch 85] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 55.3s — 850/936 done
+[⏳] Estimated time remaining: 475s
+
+[Batch 86] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.7s — 860/936 done
+[⏳] Estimated time remaining: 195s
+
+[Batch 87] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 25.7s — 870/936 done
+[⏳] Estimated time remaining: 169s
+
+[Batch 88] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 28.7s — 880/936 done
+[⏳] Estimated time remaining: 160s
+
+[Batch 89] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 32.6s — 890/936 done
+[⏳] Estimated time remaining: 150s
+
+[Batch 90] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 38.0s — 900/936 done
+[⏳] Estimated time remaining: 136s
+
+[Batch 91] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 34.3s — 910/936 done
+[⏳] Estimated time remaining: 89s
+
+[Batch 92] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 39.6s — 920/936 done
+[⏳] Estimated time remaining: 63s
+
+[Batch 93] Processing 10 videos with 8 worker(s)...
+[✓] Batch processed in 33.4s — 930/936 done
+[⏳] Estimated time remaining: 20s
+
+[Batch 94] Processing 6 videos with 8 worker(s)...
+[✓] Batch processed in 24.7s — 936/936 done
+[⏳] Estimated time remaining: 0s
+
+✅ All 936 videos processed in 2953 seconds.
